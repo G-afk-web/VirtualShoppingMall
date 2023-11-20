@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 514082b7f4e7cca4eb76f79afcb88869
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: clothes
+    100004: clothes.002
+    100006: clothes.003
+    100008: clothes.004
+    100010: clothes.005
+    100012: clothes.006
+    100014: clothes.007
+    100016: clothes.008
+    100018: clothes.009
+    100020: clothes.010
+    100022: clothes.011
+    100024: clothes.012
+    100026: clothes.013
+    100028: clothes_1
+    100030: clothes_10
+    100032: clothes_11
+    100034: clothes_12
+    100036: clothes_2
+    100038: clothes_3
+    100040: clothes_4
+    100042: clothes_5
+    100044: clothes_6
+    100046: clothes_7
+    100048: clothes_8
+    100050: clothes_9
+    400000: //RootNode
+    400002: clothes
+    400004: clothes.002
+    400006: clothes.003
+    400008: clothes.004
+    400010: clothes.005
+    400012: clothes.006
+    400014: clothes.007
+    400016: clothes.008
+    400018: clothes.009
+    400020: clothes.010
+    400022: clothes.011
+    400024: clothes.012
+    400026: clothes.013
+    400028: clothes_1
+    400030: clothes_10
+    400032: clothes_11
+    400034: clothes_12
+    400036: clothes_2
+    400038: clothes_3
+    400040: clothes_4
+    400042: clothes_5
+    400044: clothes_6
+    400046: clothes_7
+    400048: clothes_8
+    400050: clothes_9
+    2300000: clothes
+    2300002: clothes.002
+    2300004: clothes.003
+    2300006: clothes.004
+    2300008: clothes.005
+    2300010: clothes.006
+    2300012: clothes.007
+    2300014: clothes.008
+    2300016: clothes.009
+    2300018: clothes.010
+    2300020: clothes.011
+    2300022: clothes.012
+    2300024: clothes.013
+    2300026: clothes_1
+    2300028: clothes_10
+    2300030: clothes_11
+    2300032: clothes_12
+    2300034: clothes_2
+    2300036: clothes_3
+    2300038: clothes_4
+    2300040: clothes_5
+    2300042: clothes_6
+    2300044: clothes_7
+    2300046: clothes_8
+    2300048: clothes_9
+    3300000: clothes
+    3300002: clothes.002
+    3300004: clothes.003
+    3300006: clothes.004
+    3300008: clothes.005
+    3300010: clothes.006
+    3300012: clothes.007
+    3300014: clothes.008
+    3300016: clothes.009
+    3300018: clothes.010
+    3300020: clothes.011
+    3300022: clothes.012
+    3300024: clothes.013
+    3300026: clothes_1
+    3300028: clothes_10
+    3300030: clothes_11
+    3300032: clothes_12
+    3300034: clothes_2
+    3300036: clothes_3
+    3300038: clothes_4
+    3300040: clothes_5
+    3300042: clothes_6
+    3300044: clothes_7
+    3300046: clothes_8
+    3300048: clothes_9
+    4300000: clothes.013
+    4300002: clothes.012
+    4300004: clothes.011
+    4300006: clothes.010
+    4300008: clothes.009
+    4300010: clothes.008
+    4300012: clothes.007
+    4300014: clothes.006
+    4300016: clothes.005
+    4300018: clothes.004
+    4300020: clothes.003
+    4300022: clothes.002
+    4300024: clothes
+    4300026: clothes_4
+    4300028: clothes_3
+    4300030: clothes_2
+    4300032: clothes_1
+    4300034: clothes_8
+    4300036: clothes_7
+    4300038: clothes_6
+    4300040: clothes_5
+    4300042: clothes_12
+    4300044: clothes_11
+    4300046: clothes_9
+    4300048: clothes_10
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clothes
+    second: {fileID: 2100000, guid: bd51a429e22e58148a36e332168968f7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
