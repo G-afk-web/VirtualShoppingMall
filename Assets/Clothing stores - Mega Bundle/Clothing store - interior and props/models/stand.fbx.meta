@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 21bfda62a7fd3b64cb3046912ed3355c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: cupboard
+    100006: cupboard_2
+    100008: mirror_1
+    100010: mirror_2
+    100012: room
+    100014: room.001
+    100016: room.002
+    100018: room.003
+    100020: room_2
+    400000: //RootNode
+    400002: Cube
+    400004: cupboard
+    400006: cupboard_2
+    400008: mirror_1
+    400010: mirror_2
+    400012: room
+    400014: room.001
+    400016: room.002
+    400018: room.003
+    400020: room_2
+    2300000: //RootNode
+    2300002: Cube
+    2300004: cupboard
+    2300006: cupboard_2
+    2300008: mirror_1
+    2300010: mirror_2
+    2300012: room
+    2300014: room.001
+    2300016: room.002
+    2300018: room.003
+    2300020: room_2
+    3300000: //RootNode
+    3300002: Cube
+    3300004: cupboard
+    3300006: cupboard_2
+    3300008: mirror_1
+    3300010: mirror_2
+    3300012: room
+    3300014: room.001
+    3300016: room.002
+    3300018: room.003
+    3300020: room_2
+    4300000: stand
+    4300002: room.003
+    4300004: room.002
+    4300006: room.001
+    4300008: Cube
+    4300010: room_2
+    4300012: mirror_2
+    4300014: mirror_1
+    4300016: cupboard_2
+    4300018: cupboard
+    4300020: room
+    6400000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: f1c67695572f61845942dc1e9d5c49b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: 53887d51dac20954c8d33e23c88f68e5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
