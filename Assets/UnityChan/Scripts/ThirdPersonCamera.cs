@@ -67,9 +67,7 @@ namespace UnityChan
 		void setCameraPositionFrontView ()
 		{
 			// Change Front Camera
-			bQuickSwitch = true;
-			transform.position = frontPos.position;	
-			transform.forward = frontPos.forward;
+			bQuickSwitch = false;
 		}
 
 		void setCameraPositionJumpView ()
